@@ -1,0 +1,30 @@
+/* this is a comment */
+/* CSS per element should be in alphabetical order */
+
+h2 {
+    color: red;
+    font-size: 200px;
+}
+
+img:hover {
+    background-color: gold;
+}
+
+/********************CLASS SELECTORS******************/
+.xmas_tree {
+    background-color: blue;
+}
+
+.star {
+    background-color: red;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/********************ID SELECTORS******************/
+
+#heading {
+    color: blue;
+}
