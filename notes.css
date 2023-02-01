@@ -23,6 +23,30 @@ img:hover {
     border-radius: 100%;
 }
 
+.red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    right: 200px;
+   
+}
+
+.blue {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+  
+}
+
+.yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: absolute;
+}
+
 /********************ID SELECTORS******************/
 
 #heading {
